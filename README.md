@@ -7,3 +7,9 @@ Beginner level  python practice codes including if-else condition problems and m
 
 ## Purpose
 Practice Python conditional statements and improve logic building.
+
+📌 What’s Included?
+🔹 7 Beginner-to-Intermediate Mini Projects
+🔹 Focus on real-world problem solving
+🔹 Clean and simple Python code
+🔹 Logic building using conditional statements
