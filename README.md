@@ -13,3 +13,9 @@ Practice Python conditional statements and improve logic building.
 🔹 Focus on real-world problem solving
 🔹 Clean and simple Python code
 🔹 Logic building using conditional statements
+
+💡 Mini Projects List
+mini project 1 - simple calculator
+mini project 2 - 
+mini project 3 -
+mini project 4 - login system 
