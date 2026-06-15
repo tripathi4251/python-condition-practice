@@ -16,6 +16,11 @@ Practice Python conditional statements and improve logic building.
 
 💡 Mini Projects List
 mini project 1 - simple calculator
+
 mini project 2 - movie ticket checker
+
 mini project 3 - number guessing game
+
 mini project 4 - login system 
+
+mini project 5 - day week program
