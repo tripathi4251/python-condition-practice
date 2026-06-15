@@ -24,3 +24,5 @@ mini project 3 - number guessing game
 mini project 4 - login system 
 
 mini project 5 - day week program
+
+mini project 6 - Character Checker Input a character
